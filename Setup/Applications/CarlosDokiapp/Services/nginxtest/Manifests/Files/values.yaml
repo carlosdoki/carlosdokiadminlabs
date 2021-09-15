@@ -1,4 +1,4 @@
-name: harness-example-test
+name: harness-example-test2
 replicas: 1
 
 image: ${artifact.metadata.image}
